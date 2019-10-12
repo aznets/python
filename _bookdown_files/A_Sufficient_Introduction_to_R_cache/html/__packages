@@ -1,0 +1,13 @@
+base
+dplyr
+ggplot2
+microbenchmark
+foreach
+iterators
+doMC
+faraway
+boot
+lattice
+caret
+Matrix
+glmnet
